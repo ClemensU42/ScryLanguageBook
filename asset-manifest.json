@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClemensU42/ScryLanguageBook/static/css/main.f855e6bc.css",
+    "main.js": "/ClemensU42/ScryLanguageBook/static/js/main.b5536145.js",
+    "static/js/453.35d763b6.chunk.js": "/ClemensU42/ScryLanguageBook/static/js/453.35d763b6.chunk.js",
+    "static/media/logo.svg": "/ClemensU42/ScryLanguageBook/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ClemensU42/ScryLanguageBook/index.html",
+    "main.f855e6bc.css.map": "/ClemensU42/ScryLanguageBook/static/css/main.f855e6bc.css.map",
+    "main.b5536145.js.map": "/ClemensU42/ScryLanguageBook/static/js/main.b5536145.js.map",
+    "453.35d763b6.chunk.js.map": "/ClemensU42/ScryLanguageBook/static/js/453.35d763b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b5536145.js"
+  ]
+}
